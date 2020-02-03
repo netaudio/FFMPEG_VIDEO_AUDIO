@@ -1,6 +1,6 @@
-音视频播放进阶学习1
-ffmpeg_video_audio_1利用FFMPEG和SDL实现视频流和音频流的同时播放(不同步)
-下一步实现音频流和视频流的播放的同步，音频重采样参考FFMPE提供的example中resampling_audio.c
+//音视频播放进阶学习1
+//ffmpeg_video_audio_1利用FFMPEG和SDL实现视频流和音频流的同时播放(不同步)
+//下一步实现音频流和视频流的播放的同步，音频重采样参考FFMPE提供的example中resampling_audio.c
 
 #include "stdafx.h"
 #include "ffmpeg_video_audio.h"
